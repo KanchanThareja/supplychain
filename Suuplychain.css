@@ -1,0 +1,157 @@
+#searchbox{
+	margin-top:15px;
+	margin-left: 10px;
+	border-radius:10px;
+	text-align: center;
+	border: 1.5px grey solid;
+	font-size: 1.5em;
+}
+#l{
+	height:70px;
+	width:auto;
+}
+#login{
+	font-size:16px;
+	margin-top: 10px;
+	text-align:center;
+	color:black;
+}
+#log{
+	height:33px;
+	width:auto;
+	margin-top:10px;
+}
+#redspace{
+	height:300px;
+	background-color:#e14f42;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.f{
+	align:right;
+}
+#thug{
+	margin-top: 40px;
+	margin-left: 20px;
+	padding-top:80px;
+	padding-left:40px;
+	font-size:20px;
+	color:white;
+	
+}
+#thug2{
+	padding-left:40px;
+	margin-left: 100px;
+	font-size:20px;
+	color:white;
+	
+}
+#thug3{
+	margin-top: 40px;
+	margin-right: 50px;
+	padding-top:80px;
+	
+	font-size:20px;
+	color:white;
+	
+}
+#thug4{
+	
+	padding-left:40px;
+	margin-left: 20px;
+	font-size:20px;
+	color:white;
+	}
+
+#prov{
+	margin-top:55px;
+	height: 180px;
+	width:auto;
+}
+#seek{
+	margin-top:55px;
+	margin-left: 60px;
+	height: 180px;
+	width:auto;
+
+}
+.row{
+	margin-top:7px;
+	margin-right: 15px;
+}
+
+#about{
+	height: 400px;
+	width: auto;
+	margin-left:30px;
+	margin-top:7px;
+}
+
+#info{
+
+	text-align:center;
+	font-size:19px;
+	
+}
+#myCarousel{
+margin-top:60px;
+}
+.carousel-inner{
+	height: 300px;
+}
+.sr-only{
+	height:300px;
+}
+iframe.video{
+	margin-left: 60px;
+	margin-top:30px;
+	margin-bottom: 40px;}
+
+#working{
+	margin-top: 0px;
+	text-align:center;
+	font-size:19px;
+}
+#company{
+	padding-top: 8px;
+	font-size:18px;
+	}
+#greyspace{
+		background-color: #c2c2c2;
+		box-shadow: 0px -8px 15px #ccc;
+	}
+#m{
+	margin-left:230px;
+	margin-bottom: 50px;
+	margin-top: -25px;
+	height:60px;
+	width:auto;
+}
+#email{
+	
+	width: 400px;
+	height: 30px;
+	border-radius:6px;
+	text-align: center;
+	border: 1px grey solid;
+	font-size: 1.5em;
+	}
+	#mail{
+		margin-top: -35px;
+		margin-left: 100px;
+	}
+	#send{
+		height:26px;
+		width:auto;
+		margin-bottom:5px;
+		webkit-box-shadow: 12px 12px 29px #555;
+		}
+.fb{
+	
+	height:40px;
+	width:auto;
+	margin-left: 20px;
+	}	
+		#icon{
+			margin-left: 180px;
+			
+			}
